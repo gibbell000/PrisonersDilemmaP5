@@ -6,9 +6,9 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'E4'
-strategy_name = 'Use early history'
-strategy_description = '''\
+team_name = 'narnia'
+strategy_name = 'Aslan'
+strategy_description = 'Aslan knows everything'
 Collude first round. Compare all rounds to the previous round and 
 assume opponent will behave the same as the first time the previous 
 round's result occurred. If the previous round's result never has 
